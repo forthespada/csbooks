@@ -9,5 +9,5 @@
 
 ### 你好，本仓库地址已迁移，请移步下面的最新地址去获取您所需要的计算机书籍资源，感谢
 
-[github新地址](https://github.com/forthespada/csbooks)               [码云新地址](https://gitee.com/ForthEspada/csbooks)
+[github新地址](https://github.com/forthespada/CS-Books)               [码云新地址](https://gitee.com/ForthEspada/CS-Books)
 
